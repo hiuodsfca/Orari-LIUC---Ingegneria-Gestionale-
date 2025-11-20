@@ -1,10 +1,10 @@
 name: Aggiornamento Orario LIUC
 
 on:
-  # Trigger manuale per test immediati
+  # Permette di eseguire l'Action manualmente (utile per i test!)
   workflow_dispatch:
 
-  # Esecuzione programmata (tutti i giorni alle 05:00 UTC = 06:00 CET)
+  # Esecuzione programmata (tutti i giorni alle 05:00 UTC = 06:00/07:00 ora italiana)
   schedule:
     - cron: '0 5 * * *'
 
@@ -16,36 +16,38 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.ACTION_TOKEN }} # Usa il Secret PAT per il push
-          ref: main # Assicurati di lavorare sul ramo principale
+          # Il token è necessario per il push del file ICS aggiornato nel passo 5
+          token: ${{ secrets.ACTION_TOKEN }} 
+          ref: main 
 
       # 2. Setup dell'ambiente Python
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # Versione Python compatibile
+          python-version: '3.11' 
 
-      # 3. Installazione delle dipendenze (le tue librerie)
+      # 3. Installazione delle dipendenze necessarie
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests icalendar pendulum
 
-      # 4. Esecuzione dello script Python
+      # 4. Esecuzione dello script Python (FIX: Esegue il file Scraper.py)
       - name: Run Scraper and Generate ICS
-        run: python full_scraper.py
+        run: python Scraper.py
         
       # 5. Caricamento dei cambiamenti su GitHub
       - name: Commit and Push new ICS file
         run: |
+          # Configura l'identità del bot GitHub per il commit
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           
-          # Controlla se ci sono differenze e, in caso, crea il commit
+          # Aggiunge il file ICS aggiornato all'area di staging
           git add orario_liuc_completo.ics
           
-          # Se il commit fallisce perché non ci sono modifiche, ignoriamo l'errore
+          # Tenta di creare il commit. Se non ci sono modifiche, ignora l'errore (|| echo ...)
           git commit -m "Auto-update: Orario generato da GitHub Actions" || echo "Nessuna modifica da committare"
           
-          # Forza il push usando il token nel secret
+          # Invia le modifiche al ramo principale
           git push
