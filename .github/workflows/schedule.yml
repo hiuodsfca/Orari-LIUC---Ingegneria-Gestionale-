@@ -4,9 +4,9 @@ on:
   # Permette di eseguire l'Action manualmente (utile per i test!)
   workflow_dispatch:
 
-  # Esecuzione programmata (tutti i giorni alle 05:00 UTC = 06:00/07:00 ora italiana)
+  # Esecuzione programmata: 4 volte al giorno (03, 11, 15, 21 UTC)
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 3,11,15,21 * * *'
 
 jobs:
   update-schedule:
@@ -32,7 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests icalendar pendulum
 
-      # 4. Esecuzione dello script Python (FIX: Esegue il file Scraper.py)
+      # 4. Esecuzione dello script Python
       - name: Run Scraper and Generate ICS
         run: python Scraper.py
         
