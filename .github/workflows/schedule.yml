@@ -1,0 +1,53 @@
+name: Aggiornamento Orario LIUC
+
+on:
+  # Permette di eseguire l'Action manualmente (utile per i test!)
+  workflow_dispatch:
+
+  # Esecuzione programmata (tutti i giorni alle 05:00 UTC = 06:00/07:00 ora italiana)
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout del repository (scarica i file)
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          # Il token è necessario per il push del file ICS aggiornato nel passo 5
+          token: ${{ secrets.ACTION_TOKEN }} 
+          ref: main 
+
+      # 2. Setup dell'ambiente Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' 
+
+      # 3. Installazione delle dipendenze necessarie
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests icalendar pendulum
+
+      # 4. Esecuzione dello script Python (FIX: Esegue il file Scraper.py)
+      - name: Run Scraper and Generate ICS
+        run: python Scraper.py
+        
+      # 5. Caricamento dei cambiamenti su GitHub
+      - name: Commit and Push new ICS file
+        run: |
+          # Configura l'identità del bot GitHub per il commit
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          
+          # Aggiunge il file ICS aggiornato all'area di staging
+          git add orario_liuc_completo.ics
+          
+          # Tenta di creare il commit. Se non ci sono modifiche, ignora l'errore (|| echo ...)
+          git commit -m "Auto-update: Orario generato da GitHub Actions" || echo "Nessuna modifica da committare"
+          
+          # Invia le modifiche al ramo principale
+          git push
