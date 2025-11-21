@@ -420,10 +420,10 @@ BEGIN:VEVENT
 SUMMARY:Istituzioni di economia - corso a scelta
 DTSTART;TZID=Europe/Rome:20251205T083000
 DTEND;TZID=Europe/Rome:20251205T123000
-UID:LIUC-129924-05122025@orari.liuc.it
+UID:LIUC-133268-05122025@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: CORAZZINI LUCA\nCodice:
   N70020\nCorso di Studi: L09B\n
-LOCATION:C218
+LOCATION:C216
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metodi e Strumenti per la Modellazione - corso a scelta
