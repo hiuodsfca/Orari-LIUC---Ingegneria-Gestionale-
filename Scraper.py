@@ -21,7 +21,7 @@ PAYLOAD_TEMPLATE = {
     "anno": "2025",
     "scuola": "AccademiaLIUC",
     "corso": "L09B",
-    "anno2[]": "254|1",  # Codice specifico Anno/Curriculum
+    "anno2[]": "254|2",  # Codice specifico Anno/Curriculum
     "_lang": "en",
 
     # Parametri necessari per la chiamata di griglia
