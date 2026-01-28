@@ -31,7 +31,7 @@ PAYLOAD_TEMPLATE = {
 }
 
 # La data di fine è fissa: la fine del semestre
-END_DATE_STR = "19-12-2025"
+END_DATE_STR = "19-12-2028"
 
 TIMEZONE = 'Europe/Rome'
 
