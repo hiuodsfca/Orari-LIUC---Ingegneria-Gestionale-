@@ -11,13 +11,18 @@ on:
 jobs:
   update-schedule:
     runs-on: ubuntu-latest
+    
+    # Diamo i permessi necessari per scrivere il file nel repository
+    permissions:
+      contents: write
+
     steps:
       # 1. Checkout del repository (scarica i file)
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          # Il token è necessario per il push del file ICS aggiornato nel passo 5
-          token: ${{ secrets.ACTION_TOKEN }} 
+          # Usiamo il token automatico di sistema al posto della chiave privata
+          token: ${{ secrets.GITHUB_TOKEN }}
           ref: main 
 
       # 2. Setup dell'ambiente Python
@@ -46,7 +51,7 @@ jobs:
           # Aggiunge il file ICS aggiornato all'area di staging
           git add orario_liuc_completo.ics
           
-          # Tenta di creare il commit. Se non ci sono modifiche, ignora l'errore (|| echo ...)
+          # Tenta di creare il commit. Se non ci sono modifiche, ignora l'errore
           git commit -m "Auto-update: Orario generato da GitHub Actions" || echo "Nessuna modifica da committare"
           
           # Invia le modifiche al ramo principale
