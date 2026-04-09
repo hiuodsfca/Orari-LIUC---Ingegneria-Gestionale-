@@ -48,12 +48,12 @@ DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
 LOCATION:C219
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seconda Lingua Straniera Francese - corso a scelta
+SUMMARY:[ANNULLATO] Seconda Lingua Straniera Francese - corso a scelta
 DTSTART;TZID=Europe/Rome:20260410T140000
 DTEND;TZID=Europe/Rome:20260410T160000
 UID:LIUC-175114-10042026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: NUYTS LAURE\nCodice: N5
- 6111\nCorso di Studi: L09B\n
+DESCRIPTION:STATO: ANNULLATO\nTipo: Lezione\nDocente: NUYTS LAURE\nCodice:
+  N56111\nCorso di Studi: L09B\n
 LOCATION:C225
 END:VEVENT
 BEGIN:VEVENT
