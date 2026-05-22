@@ -87,10 +87,10 @@ BEGIN:VEVENT
 SUMMARY:Seconda Lingua Straniera Francese - corso a scelta
 DTSTART;TZID=Europe/Rome:20260522T140000
 DTEND;TZID=Europe/Rome:20260522T160000
-UID:LIUC-175104-22052026@orari.liuc.it
+UID:LIUC-178117-22052026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: NUYTS LAURE\nCodice: N5
  6111\nCorso di Studi: L09B\n
-LOCATION:C225
+LOCATION:C216
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seconda Lingua Straniera Spagnolo - corso a scelta
