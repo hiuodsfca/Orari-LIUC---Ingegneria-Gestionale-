@@ -8,7 +8,7 @@ import re
 # ==============================================================================
 # 1. CONFIGURAZIONE RICHIESTA (Verifica i tuoi parametri)
 # ==============================================================================
-
+# Quest'anno: {anno: "2026", corso: "L09B", anno2[]: ["IG|2"]}
 # URL per la richiesta POST dei dati orari (il server dei dati)
 URL_API = "https://orari.liuc.it/agendaweb/grid_call.php"
 BASE_URL = "https://orari.liuc.it/agendaweb/"
@@ -18,10 +18,10 @@ PAYLOAD_TEMPLATE = {
     "view": "easycourse",
     "form-type": "corso",
     "include": "corso",
-    "anno": "2025",
+    "anno": "2026",
     "scuola": "AccademiaLIUC",
     "corso": "L09B",
-    "anno2[]": "254|1",  # Codice specifico Anno/Curriculum
+    "anno2[]": "IG|2",  # Codice specifico Anno/Curriculum
     "_lang": "en",
 
     # Parametri necessari per la chiamata di griglia
@@ -31,7 +31,7 @@ PAYLOAD_TEMPLATE = {
 }
 
 # La data di fine è fissa: la fine del semestre
-END_DATE_STR = "01-10-2026"
+END_DATE_STR = "19-12-2026"
 
 TIMEZONE = 'Europe/Rome'
 
