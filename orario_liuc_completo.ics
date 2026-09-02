@@ -15,19 +15,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260908T083000
 DTEND;TZID=Europe/Rome:20260908T123000
-UID:LIUC-215229-08092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215215-08092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260908T083000
 DTEND;TZID=Europe/Rome:20260908T123000
-UID:LIUC-215215-08092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215229-08092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
@@ -42,19 +42,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260915T083000
 DTEND;TZID=Europe/Rome:20260915T123000
-UID:LIUC-215218-15092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215204-15092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260915T083000
 DTEND;TZID=Europe/Rome:20260915T123000
-UID:LIUC-215204-15092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215218-15092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -96,19 +96,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260922T083000
 DTEND;TZID=Europe/Rome:20260922T123000
-UID:LIUC-215220-22092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215206-22092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260922T083000
 DTEND;TZID=Europe/Rome:20260922T123000
-UID:LIUC-215206-22092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215220-22092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -159,19 +159,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260929T083000
 DTEND;TZID=Europe/Rome:20260929T123000
-UID:LIUC-215226-29092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215212-29092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260929T083000
 DTEND;TZID=Europe/Rome:20260929T123000
-UID:LIUC-215212-29092026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215226-29092026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -231,19 +231,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261006T083000
 DTEND;TZID=Europe/Rome:20261006T123000
-UID:LIUC-215227-06102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215213-06102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C218
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261006T083000
 DTEND;TZID=Europe/Rome:20261006T123000
-UID:LIUC-215213-06102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C218
+UID:LIUC-215227-06102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -323,19 +323,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261013T083000
 DTEND;TZID=Europe/Rome:20261013T123000
-UID:LIUC-215228-13102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215214-13102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261013T083000
 DTEND;TZID=Europe/Rome:20261013T123000
-UID:LIUC-215214-13102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215228-13102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -406,19 +406,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261020T083000
 DTEND;TZID=Europe/Rome:20261020T123000
-UID:LIUC-215219-20102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215205-20102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261020T083000
 DTEND;TZID=Europe/Rome:20261020T123000
-UID:LIUC-215205-20102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215219-20102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -470,19 +470,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261027T083000
 DTEND;TZID=Europe/Rome:20261027T123000
-UID:LIUC-215217-27102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215203-27102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261027T083000
 DTEND;TZID=Europe/Rome:20261027T123000
-UID:LIUC-215203-27102026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215217-27102026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -552,19 +552,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261103T083000
 DTEND;TZID=Europe/Rome:20261103T123000
-UID:LIUC-215221-03112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215207-03112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261103T083000
 DTEND;TZID=Europe/Rome:20261103T123000
-UID:LIUC-215207-03112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215221-03112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -643,19 +643,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261110T083000
 DTEND;TZID=Europe/Rome:20261110T123000
-UID:LIUC-215225-10112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215211-10112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261110T083000
 DTEND;TZID=Europe/Rome:20261110T123000
-UID:LIUC-215211-10112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215225-10112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -726,19 +726,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261117T083000
 DTEND;TZID=Europe/Rome:20261117T123000
-UID:LIUC-215223-17112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215209-17112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261117T083000
 DTEND;TZID=Europe/Rome:20261117T123000
-UID:LIUC-215209-17112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215223-17112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -808,19 +808,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261124T083000
 DTEND;TZID=Europe/Rome:20261124T123000
-UID:LIUC-215224-24112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215210-24112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261124T083000
 DTEND;TZID=Europe/Rome:20261124T123000
-UID:LIUC-215210-24112026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215224-24112026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
@@ -900,19 +900,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261201T083000
 DTEND;TZID=Europe/Rome:20261201T123000
-UID:LIUC-215222-01122026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215208-01122026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261201T083000
 DTEND;TZID=Europe/Rome:20261201T123000
-UID:LIUC-215208-01122026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215222-01122026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -1000,19 +1000,19 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261215T083000
 DTEND;TZID=Europe/Rome:20261215T123000
-UID:LIUC-215230-15122026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
- e: N90302\nCorso di Studi: L09B\n
-LOCATION:aula virtuale
+UID:LIUC-215216-15122026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
+ ce: N90302\nCorso di Studi: L09B\n
+LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261215T083000
 DTEND;TZID=Europe/Rome:20261215T123000
-UID:LIUC-215216-15122026@orari.liuc.it
-DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
- ce: N90302\nCorso di Studi: L09B\n
-LOCATION:C220
+UID:LIUC-215230-15122026@orari.liuc.it
+DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
+ e: N90302\nCorso di Studi: L09B\n
+LOCATION:aula virtuale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operations Management negli Ospedali: governare i processi comples
