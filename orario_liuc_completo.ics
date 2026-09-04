@@ -2,4 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Orario LIUC Automazione//IT
 X-WR-CALNAME:Orario LIUC 2026 - L09B
+BEGIN:VEVENT
+UID:avviso-manutenzione-20260905@liuc.it
+DTSTAMP:20260904T203000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:⚠️ AVVISO: Sono al corrente del problema
+DESCRIPTION: Mi avete scritto in tanti. Domani verifico il malfunzionamento del calendario e punto a risolverlo 
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
