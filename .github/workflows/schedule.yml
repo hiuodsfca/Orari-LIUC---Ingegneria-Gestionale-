@@ -1,58 +1,58 @@
 name: Aggiornamento Orario LIUC
 
 on:
-  # Permette di eseguire l'Action manualmente (utile per i test!)
+  # Permette di eseguire l'Action manualmente
   workflow_dispatch:
 
-  # Esecuzione programmata: 4 volte al giorno (03, 11, 15, 21 UTC)
+  # Esecuzione programmata: 4 volte al giorno (03:00, 11:00, 15:00, 21:00 UTC)
   schedule:
     - cron: '0 3,11,15,21 * * *'
 
 jobs:
   update-schedule:
     runs-on: ubuntu-latest
-    
-    # Diamo i permessi necessari per scrivere il file nel repository
+
     permissions:
       contents: write
 
     steps:
-      # 1. Checkout del repository (scarica i file)
+      # 1. Checkout del repository
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          # Usiamo il token automatico di sistema al posto della chiave privata
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: main 
+          ref: main
 
-      # 2. Setup dell'ambiente Python
+      # 2. Setup di Python con cache per velocizzare le run
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' 
+          python-version: '3.11'
+          cache: 'pip'
 
-      # 3. Installazione delle dipendenze necessarie
+      # 3. Installazione dipendenze
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests icalendar pendulum
 
-      # 4. Esecuzione dello script Python
+      # 4. Esecuzione Scraper (se fallisce o sys.exit(1), il workflow si arresta qui)
       - name: Run Scraper and Generate ICS
         run: python Scraper.py
-        
-      # 5. Caricamento dei cambiamenti su GitHub
+
+      # 5. Commit e Push solo in presenza di modifiche reali
       - name: Commit and Push new ICS file
         run: |
-          # Configura l'identità del bot GitHub per il commit
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          
-          # Aggiunge il file ICS aggiornato all'area di staging
+
           git add orario_liuc_completo.ics
-          
-          # Tenta di creare il commit. Se non ci sono modifiche, ignora l'errore
-          git commit -m "Auto-update: Orario generato da GitHub Actions" || echo "Nessuna modifica da committare"
-          
-          # Invia le modifiche al ramo principale
-          git push
+
+          # Controlla se il file ha subito variazioni reali
+          if git diff --staged --quiet; then
+            echo "Nessuna variazione nell'orario. Salto il commit."
+          else
+            git commit -m "Auto-update: Aggiornamento orario lezioni"
+            git pull --rebase origin main
+            git push
+          fi
