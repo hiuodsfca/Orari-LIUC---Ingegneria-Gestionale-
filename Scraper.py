@@ -20,7 +20,7 @@ PAYLOAD_TEMPLATE = {
     "include": "corso",
     "anno": "2026",
     "scuola": "AccademiaLIUC",
-    "corso": "L09B",
+    "corso": "L09A",
     "anno2[]": "IG|2",  # Codice specifico Anno/Curriculum
     "_lang": "en",
 
