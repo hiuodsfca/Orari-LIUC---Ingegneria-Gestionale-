@@ -23,12 +23,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
-      # 2. Setup di Python con cache per velocizzare le run
+      # 2. Setup dell'ambiente Python
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       # 3. Installazione dipendenze
       - name: Install dependencies
@@ -36,11 +35,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests icalendar pendulum
 
-      # 4. Esecuzione Scraper (se fallisce o sys.exit(1), il workflow si arresta qui)
+      # 4. Esecuzione Scraper (se 0 eventi o errore, sys.exit(1) blocca il workflow qui)
       - name: Run Scraper and Generate ICS
         run: python Scraper.py
 
-      # 5. Commit e Push solo in presenza di modifiche reali
+      # 5. Commit e Push solo se ci sono modifiche reali al file
       - name: Commit and Push new ICS file
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -48,7 +47,7 @@ jobs:
 
           git add orario_liuc_completo.ics
 
-          # Controlla se il file ha subito variazioni reali
+          # Verifica se ci sono differenze effettive
           if git diff --staged --quiet; then
             echo "Nessuna variazione nell'orario. Salto il commit."
           else
