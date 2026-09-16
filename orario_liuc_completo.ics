@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20260921T083000
 DTEND;TZID=Europe/Rome:20260921T123000
-UID:LIUC-302368-21092026@orari.liuc.it
+UID:LIUC-305468-21092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260922T083000
 DTEND;TZID=Europe/Rome:20260922T123000
-UID:LIUC-302503-22092026@orari.liuc.it
+UID:LIUC-305603-22092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
  ce: N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20260923T083000
 DTEND;TZID=Europe/Rome:20260923T123000
-UID:LIUC-302971-23092026@orari.liuc.it
+UID:LIUC-306071-23092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20260924T083000
 DTEND;TZID=Europe/Rome:20260924T123000
-UID:LIUC-302972-24092026@orari.liuc.it
+UID:LIUC-306072-24092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20260925T133000
 DTEND;TZID=Europe/Rome:20260925T173000
-UID:LIUC-302458-25092026@orari.liuc.it
+UID:LIUC-305559-25092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20260928T083000
 DTEND;TZID=Europe/Rome:20260928T123000
-UID:LIUC-302372-28092026@orari.liuc.it
+UID:LIUC-305472-28092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20260928T133000
 DTEND;TZID=Europe/Rome:20260928T173000
-UID:LIUC-303001-28092026@orari.liuc.it
+UID:LIUC-306101-28092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20260929T083000
 DTEND;TZID=Europe/Rome:20260929T123000
-UID:LIUC-302505-29092026@orari.liuc.it
+UID:LIUC-305605-29092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
  ce: N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20260930T083000
 DTEND;TZID=Europe/Rome:20260930T123000
-UID:LIUC-302976-30092026@orari.liuc.it
+UID:LIUC-306076-30092026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261001T083000
 DTEND;TZID=Europe/Rome:20261001T123000
-UID:LIUC-302962-01102026@orari.liuc.it
+UID:LIUC-306062-01102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261002T083000
 DTEND;TZID=Europe/Rome:20261002T123000
-UID:LIUC-303009-02102026@orari.liuc.it
+UID:LIUC-306111-02102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261002T133000
 DTEND;TZID=Europe/Rome:20261002T173000
-UID:LIUC-302462-02102026@orari.liuc.it
+UID:LIUC-305562-02102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261005T083000
 DTEND;TZID=Europe/Rome:20261005T123000
-UID:LIUC-302374-05102026@orari.liuc.it
+UID:LIUC-305474-05102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261005T133000
 DTEND;TZID=Europe/Rome:20261005T173000
-UID:LIUC-303000-05102026@orari.liuc.it
+UID:LIUC-306100-05102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261006T083000
 DTEND;TZID=Europe/Rome:20261006T123000
-UID:LIUC-302506-06102026@orari.liuc.it
+UID:LIUC-305606-06102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
  ce: N90302\nCorso di Studi: L09A\n
 LOCATION:C218
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261007T083000
 DTEND;TZID=Europe/Rome:20261007T123000
-UID:LIUC-302963-07102026@orari.liuc.it
+UID:LIUC-306063-07102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -187,7 +187,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261007T133000
 DTEND;TZID=Europe/Rome:20261007T173000
-UID:LIUC-303054-07102026@orari.liuc.it
+UID:LIUC-306150-07102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C224
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261008T083000
 DTEND;TZID=Europe/Rome:20261008T123000
-UID:LIUC-302964-08102026@orari.liuc.it
+UID:LIUC-306064-08102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261009T083000
 DTEND;TZID=Europe/Rome:20261009T123000
-UID:LIUC-303008-09102026@orari.liuc.it
+UID:LIUC-306108-09102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261009T133000
 DTEND;TZID=Europe/Rome:20261009T173000
-UID:LIUC-302463-09102026@orari.liuc.it
+UID:LIUC-305563-09102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261012T083000
 DTEND;TZID=Europe/Rome:20261012T123000
-UID:LIUC-302376-12102026@orari.liuc.it
+UID:LIUC-305476-12102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261012T133000
 DTEND;TZID=Europe/Rome:20261012T173000
-UID:LIUC-303004-12102026@orari.liuc.it
+UID:LIUC-306104-12102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261013T083000
 DTEND;TZID=Europe/Rome:20261013T123000
-UID:LIUC-302507-13102026@orari.liuc.it
+UID:LIUC-305607-13102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
  ce: N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261014T083000
 DTEND;TZID=Europe/Rome:20261014T123000
-UID:LIUC-302969-14102026@orari.liuc.it
+UID:LIUC-306069-14102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -260,7 +260,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261014T133000
 DTEND;TZID=Europe/Rome:20261014T173000
-UID:LIUC-303056-14102026@orari.liuc.it
+UID:LIUC-306152-14102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C226
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261015T083000
 DTEND;TZID=Europe/Rome:20261015T123000
-UID:LIUC-302970-15102026@orari.liuc.it
+UID:LIUC-306070-15102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261016T083000
 DTEND;TZID=Europe/Rome:20261016T123000
-UID:LIUC-303012-16102026@orari.liuc.it
+UID:LIUC-306112-16102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261016T133000
 DTEND;TZID=Europe/Rome:20261016T173000
-UID:LIUC-302466-16102026@orari.liuc.it
+UID:LIUC-305566-16102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261019T083000
 DTEND;TZID=Europe/Rome:20261019T123000
-UID:LIUC-302369-19102026@orari.liuc.it
+UID:LIUC-305469-19102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261020T083000
 DTEND;TZID=Europe/Rome:20261020T103000
-UID:LIUC-302504-20102026@orari.liuc.it
+UID:LIUC-305604-20102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: ROSSIGNOLI CHIARA\nCodi
  ce: N90302\nCorso di Studi: L09A\n
 LOCATION:C107 - Aula Magna-Bussolati
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261023T133000
 DTEND;TZID=Europe/Rome:20261023T173000
-UID:LIUC-302459-23102026@orari.liuc.it
+UID:LIUC-305558-23102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261026T083000
 DTEND;TZID=Europe/Rome:20261026T123000
-UID:LIUC-302367-26102026@orari.liuc.it
+UID:LIUC-305467-26102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261026T133000
 DTEND;TZID=Europe/Rome:20261026T173000
-UID:LIUC-302998-26102026@orari.liuc.it
+UID:LIUC-306098-26102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261027T083000
 DTEND;TZID=Europe/Rome:20261027T123000
-UID:LIUC-302498-27102026@orari.liuc.it
+UID:LIUC-305598-27102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: SILVOLA SOFIA\nCodice: 
  N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261028T083000
 DTEND;TZID=Europe/Rome:20261028T123000
-UID:LIUC-302960-28102026@orari.liuc.it
+UID:LIUC-306060-28102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261029T083000
 DTEND;TZID=Europe/Rome:20261029T123000
-UID:LIUC-302961-29102026@orari.liuc.it
+UID:LIUC-306061-29102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261030T083000
 DTEND;TZID=Europe/Rome:20261030T123000
-UID:LIUC-303006-30102026@orari.liuc.it
+UID:LIUC-306106-30102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261030T133000
 DTEND;TZID=Europe/Rome:20261030T173000
-UID:LIUC-302457-30102026@orari.liuc.it
+UID:LIUC-305557-30102026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261102T083000
 DTEND;TZID=Europe/Rome:20261102T123000
-UID:LIUC-302370-02112026@orari.liuc.it
+UID:LIUC-305471-02112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261102T133000
 DTEND;TZID=Europe/Rome:20261102T173000
-UID:LIUC-302999-02112026@orari.liuc.it
+UID:LIUC-306099-02112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261103T083000
 DTEND;TZID=Europe/Rome:20261103T123000
-UID:LIUC-302499-03112026@orari.liuc.it
+UID:LIUC-305599-03112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: SILVOLA SOFIA\nCodice: 
  N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261104T083000
 DTEND;TZID=Europe/Rome:20261104T103000
-UID:LIUC-302973-04112026@orari.liuc.it
+UID:LIUC-306073-04112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C217
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261104T103000
 DTEND;TZID=Europe/Rome:20261104T123000
-UID:LIUC-302975-04112026@orari.liuc.it
+UID:LIUC-306075-04112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261105T083000
 DTEND;TZID=Europe/Rome:20261105T123000
-UID:LIUC-302974-05112026@orari.liuc.it
+UID:LIUC-306074-05112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261106T083000
 DTEND;TZID=Europe/Rome:20261106T123000
-UID:LIUC-303007-06112026@orari.liuc.it
+UID:LIUC-306107-06112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261106T133000
 DTEND;TZID=Europe/Rome:20261106T173000
-UID:LIUC-302460-06112026@orari.liuc.it
+UID:LIUC-305560-06112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261109T083000
 DTEND;TZID=Europe/Rome:20261109T123000
-UID:LIUC-302377-09112026@orari.liuc.it
+UID:LIUC-305477-09112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261109T133000
 DTEND;TZID=Europe/Rome:20261109T173000
-UID:LIUC-303005-09112026@orari.liuc.it
+UID:LIUC-306105-09112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261110T083000
 DTEND;TZID=Europe/Rome:20261110T123000
-UID:LIUC-302502-10112026@orari.liuc.it
+UID:LIUC-305602-10112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: SILVOLA SOFIA\nCodice: 
  N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261111T083000
 DTEND;TZID=Europe/Rome:20261111T123000
-UID:LIUC-302979-11112026@orari.liuc.it
+UID:LIUC-306079-11112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -495,7 +495,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261111T133000
 DTEND;TZID=Europe/Rome:20261111T173000
-UID:LIUC-303055-11112026@orari.liuc.it
+UID:LIUC-306151-11112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261112T083000
 DTEND;TZID=Europe/Rome:20261112T123000
-UID:LIUC-302980-12112026@orari.liuc.it
+UID:LIUC-306080-12112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261113T133000
 DTEND;TZID=Europe/Rome:20261113T173000
-UID:LIUC-302467-13112026@orari.liuc.it
+UID:LIUC-305567-13112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -522,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261116T083000
 DTEND;TZID=Europe/Rome:20261116T123000
-UID:LIUC-302375-16112026@orari.liuc.it
+UID:LIUC-305475-16112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261116T133000
 DTEND;TZID=Europe/Rome:20261116T173000
-UID:LIUC-303002-16112026@orari.liuc.it
+UID:LIUC-306102-16112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261117T083000
 DTEND;TZID=Europe/Rome:20261117T123000
-UID:LIUC-302501-17112026@orari.liuc.it
+UID:LIUC-305601-17112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: SILVOLA SOFIA\nCodice: 
  N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261118T083000
 DTEND;TZID=Europe/Rome:20261118T123000
-UID:LIUC-302977-18112026@orari.liuc.it
+UID:LIUC-306077-18112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261119T083000
 DTEND;TZID=Europe/Rome:20261119T123000
-UID:LIUC-302978-19112026@orari.liuc.it
+UID:LIUC-306078-19112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MANZINI RAFFAELLA\nCodi
  ce: N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261120T133000
 DTEND;TZID=Europe/Rome:20261120T173000
-UID:LIUC-302464-20112026@orari.liuc.it
+UID:LIUC-305564-20112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261123T083000
 DTEND;TZID=Europe/Rome:20261123T123000
-UID:LIUC-302373-23112026@orari.liuc.it
+UID:LIUC-305473-23112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261123T133000
 DTEND;TZID=Europe/Rome:20261123T173000
-UID:LIUC-303010-23112026@orari.liuc.it
+UID:LIUC-306109-23112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -594,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261124T083000
 DTEND;TZID=Europe/Rome:20261124T123000
-UID:LIUC-302500-24112026@orari.liuc.it
+UID:LIUC-305600-24112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: SILVOLA SOFIA\nCodice: 
  N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261125T083000
 DTEND;TZID=Europe/Rome:20261125T123000
-UID:LIUC-302965-25112026@orari.liuc.it
+UID:LIUC-306065-25112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -612,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261126T083000
 DTEND;TZID=Europe/Rome:20261126T123000
-UID:LIUC-302966-26112026@orari.liuc.it
+UID:LIUC-306066-26112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261127T083000
 DTEND;TZID=Europe/Rome:20261127T123000
-UID:LIUC-303011-27112026@orari.liuc.it
+UID:LIUC-306110-27112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: MINELLI ELIANA ALESSAND
  RA\nCodice: N91548\nCorso di Studi: L09A\n
 LOCATION:C219
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261127T133000
 DTEND;TZID=Europe/Rome:20261127T173000
-UID:LIUC-302465-27112026@orari.liuc.it
+UID:LIUC-305565-27112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261130T083000
 DTEND;TZID=Europe/Rome:20261130T123000
-UID:LIUC-302371-30112026@orari.liuc.it
+UID:LIUC-305470-30112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -648,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
 DTSTART;TZID=Europe/Rome:20261130T133000
 DTEND;TZID=Europe/Rome:20261130T173000
-UID:LIUC-303003-30112026@orari.liuc.it
+UID:LIUC-306103-30112026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: URBINATI ANDREA\nCodice
  : N91548\nCorso di Studi: L09A\n
 LOCATION:C110
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261201T083000
 DTEND;TZID=Europe/Rome:20261201T123000
-UID:LIUC-302508-01122026@orari.liuc.it
+UID:LIUC-305608-01122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
  e: N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -666,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261202T083000
 DTEND;TZID=Europe/Rome:20261202T123000
-UID:LIUC-302967-02122026@orari.liuc.it
+UID:LIUC-306067-02122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C112
@@ -676,7 +676,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261202T133000
 DTEND;TZID=Europe/Rome:20261202T173000
-UID:LIUC-303053-02122026@orari.liuc.it
+UID:LIUC-306149-02122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C113
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261203T083000
 DTEND;TZID=Europe/Rome:20261203T123000
-UID:LIUC-302968-03122026@orari.liuc.it
+UID:LIUC-306068-03122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PULIGA GLORIA\nCodice: 
  N91546\nCorso di Studi: L09A\n
 LOCATION:C004
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261204T133000
 DTEND;TZID=Europe/Rome:20261204T173000
-UID:LIUC-302461-04122026@orari.liuc.it
+UID:LIUC-305561-04122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -703,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261210T083000
 DTEND;TZID=Europe/Rome:20261210T123000
-UID:LIUC-302511-10122026@orari.liuc.it
+UID:LIUC-305611-10122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
  e: N90302\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -712,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261211T133000
 DTEND;TZID=Europe/Rome:20261211T173000
-UID:LIUC-302456-11122026@orari.liuc.it
+UID:LIUC-305556-11122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261214T083000
 DTEND;TZID=Europe/Rome:20261214T123000
-UID:LIUC-302378-14122026@orari.liuc.it
+UID:LIUC-305478-14122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: LEZZI ADRIANO MARIA\nCo
  dice: N13314\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -730,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261215T083000
 DTEND;TZID=Europe/Rome:20261215T123000
-UID:LIUC-302509-15122026@orari.liuc.it
+UID:LIUC-305609-15122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
  e: N90302\nCorso di Studi: L09A\n
 LOCATION:Lab. PC grande
@@ -740,7 +740,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261215T133000
 DTEND;TZID=Europe/Rome:20261215T173000
-UID:LIUC-303057-15122026@orari.liuc.it
+UID:LIUC-306153-15122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C226
@@ -750,7 +750,7 @@ SUMMARY:Operations Management negli Ospedali: governare i processi comples
  si e ottimizzare le performance - corso a scelta
 DTSTART;TZID=Europe/Rome:20261216T133000
 DTEND;TZID=Europe/Rome:20261216T173000
-UID:LIUC-303058-16122026@orari.liuc.it
+UID:LIUC-306154-16122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: PORAZZI EMANUELE\nCodic
  e: N91563\nCorso di Studi: L09A\n
 LOCATION:C226
@@ -759,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261218T133000
 DTEND;TZID=Europe/Rome:20261218T173000
-UID:LIUC-302455-18122026@orari.liuc.it
+UID:LIUC-305555-18122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: FERRARI VITTORIO\nCodic
  e: N70087\nCorso di Studi: L09A\n
 LOCATION:C220
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261218T140000
 DTEND;TZID=Europe/Rome:20261218T180000
-UID:LIUC-302510-18122026@orari.liuc.it
+UID:LIUC-305610-18122026@orari.liuc.it
 DESCRIPTION:STATO: ATTIVO\nTipo: Lezione\nDocente: BUONANNO GIACOMO\nCodic
  e: N90302\nCorso di Studi: L09A\n
 LOCATION:Lab. PC grande
