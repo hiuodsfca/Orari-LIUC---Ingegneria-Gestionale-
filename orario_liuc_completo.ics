@@ -1,0 +1,725 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LIUC Schedule Exporter//IT
+X-WR-CALNAME:Orario LIUC 2026 - L09A
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20260928T083000
+DTEND;TZID=Europe/Rome:20260928T123000
+UID:LIUC-327181-28092026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20260928T133000
+DTEND;TZID=Europe/Rome:20260928T173000
+UID:LIUC-327811-28092026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20260929T083000
+DTEND;TZID=Europe/Rome:20260929T123000
+UID:LIUC-327315-29092026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
+ ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20260930T083000
+DTEND;TZID=Europe/Rome:20260930T123000
+UID:LIUC-327786-30092026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261001T083000
+DTEND;TZID=Europe/Rome:20261001T123000
+UID:LIUC-327774-01102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261002T083000
+DTEND;TZID=Europe/Rome:20261002T123000
+UID:LIUC-327821-02102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261002T133000
+DTEND;TZID=Europe/Rome:20261002T173000
+UID:LIUC-327272-02102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261005T083000
+DTEND;TZID=Europe/Rome:20261005T123000
+UID:LIUC-327183-05102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261005T133000
+DTEND;TZID=Europe/Rome:20261005T173000
+UID:LIUC-327810-05102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261006T083000
+DTEND;TZID=Europe/Rome:20261006T123000
+UID:LIUC-327316-06102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
+ ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261007T083000
+DTEND;TZID=Europe/Rome:20261007T123000
+UID:LIUC-327775-07102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261007T133000
+DTEND;TZID=Europe/Rome:20261007T173000
+UID:LIUC-327860-07102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261008T083000
+DTEND;TZID=Europe/Rome:20261008T123000
+UID:LIUC-327776-08102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261009T083000
+DTEND;TZID=Europe/Rome:20261009T123000
+UID:LIUC-327820-09102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261009T133000
+DTEND;TZID=Europe/Rome:20261009T173000
+UID:LIUC-327273-09102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261012T083000
+DTEND;TZID=Europe/Rome:20261012T123000
+UID:LIUC-327185-12102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261012T133000
+DTEND;TZID=Europe/Rome:20261012T173000
+UID:LIUC-327812-12102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261013T083000
+DTEND;TZID=Europe/Rome:20261013T123000
+UID:LIUC-327317-13102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
+ ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261014T083000
+DTEND;TZID=Europe/Rome:20261014T123000
+UID:LIUC-327777-14102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261014T133000
+DTEND;TZID=Europe/Rome:20261014T173000
+UID:LIUC-327862-14102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261015T083000
+DTEND;TZID=Europe/Rome:20261015T123000
+UID:LIUC-327778-15102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261016T083000
+DTEND;TZID=Europe/Rome:20261016T123000
+UID:LIUC-327822-16102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261016T133000
+DTEND;TZID=Europe/Rome:20261016T173000
+UID:LIUC-327276-16102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261019T083000
+DTEND;TZID=Europe/Rome:20261019T123000
+UID:LIUC-327178-19102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261020T083000
+DTEND;TZID=Europe/Rome:20261020T103000
+UID:LIUC-327314-20102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
+ ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C107 - Aula Magna-Bussolati
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261023T133000
+DTEND;TZID=Europe/Rome:20261023T173000
+UID:LIUC-327268-23102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261026T083000
+DTEND;TZID=Europe/Rome:20261026T123000
+UID:LIUC-327176-26102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261026T133000
+DTEND;TZID=Europe/Rome:20261026T173000
+UID:LIUC-327808-26102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261027T083000
+DTEND;TZID=Europe/Rome:20261027T123000
+UID:LIUC-327308-27102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
+ \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261028T083000
+DTEND;TZID=Europe/Rome:20261028T123000
+UID:LIUC-327770-28102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261029T083000
+DTEND;TZID=Europe/Rome:20261029T123000
+UID:LIUC-327771-29102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261030T083000
+DTEND;TZID=Europe/Rome:20261030T123000
+UID:LIUC-327997-30102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261030T133000
+DTEND;TZID=Europe/Rome:20261030T173000
+UID:LIUC-327267-30102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261102T083000
+DTEND;TZID=Europe/Rome:20261102T123000
+UID:LIUC-327179-02112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261102T133000
+DTEND;TZID=Europe/Rome:20261102T173000
+UID:LIUC-327809-02112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261103T083000
+DTEND;TZID=Europe/Rome:20261103T123000
+UID:LIUC-327309-03112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
+ \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261104T083000
+DTEND;TZID=Europe/Rome:20261104T103000
+UID:LIUC-327783-04112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261104T103000
+DTEND;TZID=Europe/Rome:20261104T123000
+UID:LIUC-327785-04112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261105T083000
+DTEND;TZID=Europe/Rome:20261105T123000
+UID:LIUC-327784-05112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261106T083000
+DTEND;TZID=Europe/Rome:20261106T123000
+UID:LIUC-327817-06112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261106T133000
+DTEND;TZID=Europe/Rome:20261106T173000
+UID:LIUC-327270-06112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261109T083000
+DTEND;TZID=Europe/Rome:20261109T123000
+UID:LIUC-327186-09112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261109T133000
+DTEND;TZID=Europe/Rome:20261109T173000
+UID:LIUC-327815-09112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261110T083000
+DTEND;TZID=Europe/Rome:20261110T123000
+UID:LIUC-327312-10112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
+ \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261111T083000
+DTEND;TZID=Europe/Rome:20261111T123000
+UID:LIUC-327789-11112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261111T133000
+DTEND;TZID=Europe/Rome:20261111T173000
+UID:LIUC-327861-11112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261112T083000
+DTEND;TZID=Europe/Rome:20261112T123000
+UID:LIUC-327790-12112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261113T133000
+DTEND;TZID=Europe/Rome:20261113T173000
+UID:LIUC-327277-13112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261116T083000
+DTEND;TZID=Europe/Rome:20261116T123000
+UID:LIUC-327184-16112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261116T133000
+DTEND;TZID=Europe/Rome:20261116T173000
+UID:LIUC-327813-16112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261117T083000
+DTEND;TZID=Europe/Rome:20261117T123000
+UID:LIUC-327311-17112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
+ \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261118T083000
+DTEND;TZID=Europe/Rome:20261118T123000
+UID:LIUC-327787-18112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261119T083000
+DTEND;TZID=Europe/Rome:20261119T123000
+UID:LIUC-327788-19112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
+ LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261120T133000
+DTEND;TZID=Europe/Rome:20261120T173000
+UID:LIUC-327275-20112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261123T083000
+DTEND;TZID=Europe/Rome:20261123T123000
+UID:LIUC-327182-23112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261123T133000
+DTEND;TZID=Europe/Rome:20261123T173000
+UID:LIUC-327818-23112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261124T083000
+DTEND;TZID=Europe/Rome:20261124T123000
+UID:LIUC-327310-24112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
+ \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261125T083000
+DTEND;TZID=Europe/Rome:20261125T123000
+UID:LIUC-327772-25112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261126T083000
+DTEND;TZID=Europe/Rome:20261126T123000
+UID:LIUC-327773-26112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261127T083000
+DTEND;TZID=Europe/Rome:20261127T123000
+UID:LIUC-327819-27112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261127T133000
+DTEND;TZID=Europe/Rome:20261127T173000
+UID:LIUC-327274-27112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261130T083000
+DTEND;TZID=Europe/Rome:20261130T123000
+UID:LIUC-327180-30112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261130T133000
+DTEND;TZID=Europe/Rome:20261130T173000
+UID:LIUC-327814-30112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
+ A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261201T083000
+DTEND;TZID=Europe/Rome:20261201T123000
+UID:LIUC-327318-01122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
+ MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261202T083000
+DTEND;TZID=Europe/Rome:20261202T123000
+UID:LIUC-327779-02122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261202T133000
+DTEND;TZID=Europe/Rome:20261202T173000
+UID:LIUC-327859-02122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261203T083000
+DTEND;TZID=Europe/Rome:20261203T123000
+UID:LIUC-327780-03122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261204T133000
+DTEND;TZID=Europe/Rome:20261204T173000
+UID:LIUC-327271-04122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261210T083000
+DTEND;TZID=Europe/Rome:20261210T123000
+UID:LIUC-327321-10122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
+ MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261211T133000
+DTEND;TZID=Europe/Rome:20261211T173000
+UID:LIUC-327266-11122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servizi Energetici per l'industria
+DTSTART;TZID=Europe/Rome:20261214T083000
+DTEND;TZID=Europe/Rome:20261214T123000
+UID:LIUC-328053-14122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
+ MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
+LOCATION:C218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261215T083000
+DTEND;TZID=Europe/Rome:20261215T123000
+UID:LIUC-327319-15122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
+ MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:Lab. PC grande
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261215T133000
+DTEND;TZID=Europe/Rome:20261215T173000
+UID:LIUC-327863-15122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operations Management negli Ospedali: governare i processi comples
+ si e ottimizzare le performance - corso a scelta
+DTSTART;TZID=Europe/Rome:20261216T133000
+DTEND;TZID=Europe/Rome:20261216T173000
+UID:LIUC-327864-16122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
+ LE\nCodice Corso: N91563\nCurriculum: L09A (IG|2)
+LOCATION:C226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261218T133000
+DTEND;TZID=Europe/Rome:20261218T173000
+UID:LIUC-327265-18122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
+ IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261218T140000
+DTEND;TZID=Europe/Rome:20261218T180000
+UID:LIUC-327320-18122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
+ MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:Lab. PC grande
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIORNO LIBERO / STUDIO
+DTSTART;TZID=Europe/Rome:20261022T080000
+DTEND;TZID=Europe/Rome:20261022T200000
+UID:LIUC-FREE-20261022@orari.liuc.it
+DESCRIPTION:Nessuna lezione o esame programmato a calendario per questa gi
+ ornata.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIORNO LIBERO / STUDIO
+DTSTART;TZID=Europe/Rome:20261209T080000
+DTEND;TZID=Europe/Rome:20261209T200000
+UID:LIUC-FREE-20261209@orari.liuc.it
+DESCRIPTION:Nessuna lezione o esame programmato a calendario per questa gi
+ ornata.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SONDAGGIO - LIUC Calendar (1 min)
+DTSTART;TZID=Europe/Rome:20260929T200000
+DTEND;TZID=Europe/Rome:20260929T220000
+UID:CUSTOM-SONDAGGIOLIUCCalenda-29092026-2000@orari.liuc.it
+DESCRIPTION:Sondaggio conoscitivo per comprendere l'impatto del servizio. 
+ Se vuoi che sia ancora disponibile\, consiglio di rispondre. Ci vuole lett
+ eralmente qualche secondo
+LOCATION:https://forms.gle/eQwqnawXudgcFdTr8
+URL:https://forms.gle/eQwqnawXudgcFdTr8
+END:VEVENT
+END:VCALENDAR
