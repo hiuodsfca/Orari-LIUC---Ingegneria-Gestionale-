@@ -7,10 +7,12 @@ Il progetto consente agli studenti di sincronizzare lezioni, aule, docenti ed ev
 ---
 
 ## ⚠️ Disclaimer e Limitazione di Responsabilità
-Questo software è un progetto studentesco indipendente e non ufficiale, non affiliato, autorizzato, sponsorizzato o formalmente approvato da LIUC – Università Cattaneo.
-Dati as-is: Il software viene fornito "così com'è" (senza garanzie di alcun tipo, esplicite o implicite). L'autore non si assume alcuna responsabilità per errori, omissioni, mancate sincronizzazioni, modifiche dell'ultimo minuto o disallineamenti tra i dati generati da questo script e le comunicazioni ufficiali.
-Riferimento vincolante: Gli unici orari, canali e sedi didattiche vincolanti e ufficiali restano esclusivamente quelli pubblicati e aggiornati sul portale web d'Ateneo e comunicati tramite i canali istituzionali.
-Uso responsabile: L'utente è l'unico responsabile della verifica della correttezza delle informazioni ricevute prima di pianificare esami o impegni accademici.
+
+Questo software è un **progetto studentesco indipendente e non ufficiale**, non affiliato, autorizzato, sponsorizzato o formalmente approvato da LIUC – Università Cattaneo.
+
+- **Dati as-is:** Il software viene fornito "così com'è" (senza garanzie di alcun tipo, esplicite o implicite). L'autore non si assume alcuna responsabilità per errori, omissioni, mancate sincronizzazioni, modifiche dell'ultimo minuto o disallineamenti tra i dati generati da questo script e le comunicazioni ufficiali.
+- **Riferimento vincolante:** Gli unici orari, canali e sedi didattiche vincolanti e ufficiali restano esclusivamente quelli pubblicati e aggiornati sul portale web d'Ateneo e comunicati tramite i canali istituzionali.
+- **Uso responsabile:** L'utente è l'unico responsabile della verifica della correttezza delle informazioni ricevute prima di pianificare esami o impegni accademici.
 
 ---
 
@@ -30,7 +32,7 @@ La pipeline esegue i seguenti passaggi:
 1. **Fetch dei dati:** Esegue richieste HTTP POST settimanali all'endpoint accademico per l'intervallo temporale specificato (es. intero semestre/anno accademico).
 2. **Normalizzazione:** Converte le risposte JSON in oggetti orario gestiti tramite fuso orario di Ateneo (`Europe/Rome`).
 3. **Serializzazione:** Costruisce un contenitore `VCALENDAR` valido e compila i dettagli di ogni sessione didattica.
-4. **Esportazione:** Produce il file binario `.ics` pronto per l'hosting statico (es. GitHub Pages) o l'uso locale.
+4. **Esportazione:** Produce il file binario `.ics` pronto per l'hosting statico o l'uso locale.
 
 ---
 
@@ -46,6 +48,6 @@ La pipeline esegue i seguenti passaggi:
 
 Per mantenere il calendario costantemente sincronizzato con gli orari aggiornati:
 
-* **Apple Calendar (iOS / macOS):** File > Nuova sottoscrizione calendario > Incolla l'URL del feed .ics generato.
-* **Google Calendar:** Accanto ad Altri calendari, clicca + > Da URL > Incolla l'URL e conferma.
-* **Outlook:** Aggiungi calendario > Da Internet > Incolla l'URL del file.
+- **Apple Calendar (iOS / macOS):** `File` > `Nuova sottoscrizione calendario` > Incolla l'URL del feed `.ics` generato.
+- **Google Calendar:** Accanto ad *Altri calendari*, clicca `+` > `Da URL` > Incolla l'URL e conferma.
+- **Microsoft Outlook:** `Aggiungi calendario` > `Da Internet` > Incolla l'URL del file.
