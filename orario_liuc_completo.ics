@@ -712,14 +712,11 @@ DESCRIPTION:Nessuna lezione o esame programmato a calendario per questa gi
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SONDAGGIO - LIUC Calendar (1 min)
-DTSTART;TZID=Europe/Rome:20260929T200000
-DTEND;TZID=Europe/Rome:20260929T220000
-UID:CUSTOM-SONDAGGIOLIUCCalenda-29092026-2000@orari.liuc.it
-DESCRIPTION:Sondaggio conoscitivo per comprendere l'impatto del servizio. 
- Se vuoi che sia ancora disponibile\, consiglio di rispondre. Ci vuole lett
- eralmente qualche secondo
-LOCATION:https://forms.gle/eQwqnawXudgcFdTr8
-URL:https://forms.gle/eQwqnawXudgcFdTr8
+SUMMARY:Template per annunci
+DTSTART;TZID=Europe/Rome:20200101T200000
+DTEND;TZID=Europe/Rome:20200101T220000
+UID:CUSTOM-Templateperannunci-01012020-2000@orari.liuc.it
+DESCRIPTION:inserisci qui la descrizione
+LOCATION:sarebbe il luogo o link
 END:VEVENT
 END:VCALENDAR
