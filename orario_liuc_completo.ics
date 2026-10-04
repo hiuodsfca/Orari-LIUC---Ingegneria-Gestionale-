@@ -5,69 +5,6 @@ X-WR-CALNAME:Orario LIUC 2026 - L09A
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
-DTSTART;TZID=Europe/Rome:20260928T083000
-DTEND;TZID=Europe/Rome:20260928T123000
-UID:LIUC-327181-28092026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
- MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
-DTSTART;TZID=Europe/Rome:20260928T133000
-DTEND;TZID=Europe/Rome:20260928T173000
-UID:LIUC-327811-28092026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
- A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
-LOCATION:C110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ricerca Operativa per le Applicazioni Industriali
-DTSTART;TZID=Europe/Rome:20260929T083000
-DTEND;TZID=Europe/Rome:20260929T123000
-UID:LIUC-327315-29092026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
- ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
-DTSTART;TZID=Europe/Rome:20260930T083000
-DTEND;TZID=Europe/Rome:20260930T123000
-UID:LIUC-327786-30092026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
- LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
-LOCATION:C112
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
-DTSTART;TZID=Europe/Rome:20261001T083000
-DTEND;TZID=Europe/Rome:20261001T123000
-UID:LIUC-327774-01102026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
- \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
-DTSTART;TZID=Europe/Rome:20261002T083000
-DTEND;TZID=Europe/Rome:20261002T123000
-UID:LIUC-327821-02102026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
-  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
-LOCATION:C228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
-DTSTART;TZID=Europe/Rome:20261002T133000
-DTEND;TZID=Europe/Rome:20261002T173000
-UID:LIUC-327272-02102026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
- IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261005T083000
 DTEND;TZID=Europe/Rome:20261005T123000
 UID:LIUC-327183-05102026@orari.liuc.it
