@@ -548,6 +548,15 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
 LOCATION:C004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+DTSTART;TZID=Europe/Rome:20261204T083000
+DTEND;TZID=Europe/Rome:20261204T123000
+UID:LIUC-328856-04122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
+ MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+LOCATION:C109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
 DTSTART;TZID=Europe/Rome:20261204T133000
 DTEND;TZID=Europe/Rome:20261204T173000
@@ -557,12 +566,12 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
 LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricerca Operativa per le Applicazioni Industriali
+SUMMARY:[ANNULLATO] Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261210T083000
 DTEND;TZID=Europe/Rome:20261210T123000
 UID:LIUC-327321-10122026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
- MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
+DESCRIPTION:Stato: ANNULLATO\nTipologia: Lezione\nDocente: BUONANNO GIACOM
+ O\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
 LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
