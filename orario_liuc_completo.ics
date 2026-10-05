@@ -123,12 +123,12 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PORAZZI EMANUE
 LOCATION:C226
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+SUMMARY:[ANNULLATO] Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261015T083000
 DTEND;TZID=Europe/Rome:20261015T123000
 UID:LIUC-327778-15102026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
- \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+DESCRIPTION:Stato: ANNULLATO\nTipologia: Lezione\nDocente: PULIGA GLORIA\n
+ Codice Corso: N91546\nCurriculum: L09A (IG|2)
 LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
@@ -166,6 +166,15 @@ UID:LIUC-327314-20102026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: ROSSIGNOLI CHI
  ARA\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
 LOCATION:C107 - Aula Magna-Bussolati
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
+DTSTART;TZID=Europe/Rome:20261023T083000
+DTEND;TZID=Europe/Rome:20261023T123000
+UID:LIUC-328870-23102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
+ \nCodice Corso: N91546\nCurriculum: L09A (IG|2)
+LOCATION:C228
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
