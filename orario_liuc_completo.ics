@@ -131,6 +131,15 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
 LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261027T140000
+DTEND;TZID=Europe/Rome:20261027T170000
+UID:LIUC-329378-27102026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PUDDU EMILIANO
+ \nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C218
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261028T083000
 DTEND;TZID=Europe/Rome:20261028T123000
@@ -192,6 +201,15 @@ UID:LIUC-327309-03112026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
  \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
 LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261103T140000
+DTEND;TZID=Europe/Rome:20261103T170000
+UID:LIUC-329377-03112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PUDDU EMILIANO
+ \nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C217
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
@@ -384,6 +402,15 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
 LOCATION:C220
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261124T140000
+DTEND;TZID=Europe/Rome:20261124T170000
+UID:LIUC-329376-24112026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PUDDU EMILIANO
+ \nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C228
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
 DTSTART;TZID=Europe/Rome:20261125T083000
 DTEND;TZID=Europe/Rome:20261125T123000
@@ -445,6 +472,15 @@ UID:LIUC-327318-01122026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
  MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
 LOCATION:C220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
+DTSTART;TZID=Europe/Rome:20261201T140000
+DTEND;TZID=Europe/Rome:20261201T170000
+UID:LIUC-329375-01122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PUDDU EMILIANO
+ \nCodice Corso: N70087\nCurriculum: L09A (IG|2)
+LOCATION:C228
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
