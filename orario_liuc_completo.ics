@@ -497,10 +497,10 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261218T140000
 DTEND;TZID=Europe/Rome:20261218T180000
-UID:LIUC-327320-18122026@orari.liuc.it
+UID:LIUC-329815-18122026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
  MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
-LOCATION:Lab. PC grande
+LOCATION:Lab. PC grande\, Lab. PC picc.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GIORNO LIBERO / STUDIO
