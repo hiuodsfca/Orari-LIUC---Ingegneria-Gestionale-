@@ -350,10 +350,10 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261130T083000
 DTEND;TZID=Europe/Rome:20261130T123000
-UID:LIUC-327180-30112026@orari.liuc.it
+UID:LIUC-329855-30112026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
  MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
-LOCATION:C220
+LOCATION:C228
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
@@ -450,10 +450,10 @@ BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261214T083000
 DTEND;TZID=Europe/Rome:20261214T123000
-UID:LIUC-328053-14122026@orari.liuc.it
+UID:LIUC-329868-14122026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
  MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
-LOCATION:C218
+LOCATION:C108
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
