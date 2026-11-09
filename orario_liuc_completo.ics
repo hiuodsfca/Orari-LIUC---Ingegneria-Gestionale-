@@ -258,6 +258,15 @@ DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: PULIGA GLORIA
 LOCATION:C004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
+DTSTART;TZID=Europe/Rome:20261203T140000
+DTEND;TZID=Europe/Rome:20261203T160000
+UID:LIUC-330201-03122026@orari.liuc.it
+DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MINELLI ELIANA
+  ALESSANDRA\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
+LOCATION:C224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261204T083000
 DTEND;TZID=Europe/Rome:20261204T123000
