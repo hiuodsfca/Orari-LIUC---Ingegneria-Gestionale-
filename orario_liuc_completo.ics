@@ -215,10 +215,10 @@ BEGIN:VEVENT
 SUMMARY:Ricerca Operativa per le Applicazioni Industriali
 DTSTART;TZID=Europe/Rome:20261201T083000
 DTEND;TZID=Europe/Rome:20261201T123000
-UID:LIUC-327318-01122026@orari.liuc.it
+UID:LIUC-330286-01122026@orari.liuc.it
 DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: BUONANNO GIACO
  MO\nCodice Corso: N90302\nCurriculum: L09A (IG|2)
-LOCATION:C220
+LOCATION:C228
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
