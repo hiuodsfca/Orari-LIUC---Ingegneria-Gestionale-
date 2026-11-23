@@ -5,60 +5,6 @@ X-WR-CALNAME:Orario LIUC 2026 - L09A
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 SUMMARY:Servizi Energetici per l'industria
-DTSTART;TZID=Europe/Rome:20261116T083000
-DTEND;TZID=Europe/Rome:20261116T123000
-UID:LIUC-327184-16112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: LEZZI ADRIANO 
- MARIA\nCodice Corso: N13314\nCurriculum: L09A (IG|2)
-LOCATION:C108
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa B: Analisi della Competizione e del Mercato
-DTSTART;TZID=Europe/Rome:20261116T133000
-DTEND;TZID=Europe/Rome:20261116T173000
-UID:LIUC-327813-16112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: URBINATI ANDRE
- A\nCodice Corso: N91548\nCurriculum: L09A (IG|2)
-LOCATION:C110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ricerca Operativa per le Applicazioni Industriali
-DTSTART;TZID=Europe/Rome:20261117T083000
-DTEND;TZID=Europe/Rome:20261117T123000
-UID:LIUC-327311-17112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: SILVOLA SOFIA
- \nCodice Corso: N90302\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
-DTSTART;TZID=Europe/Rome:20261118T083000
-DTEND;TZID=Europe/Rome:20261118T123000
-UID:LIUC-327787-18112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
- LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
-LOCATION:C112
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decisioni di Impresa A: Modelli e Strumenti
-DTSTART;TZID=Europe/Rome:20261119T083000
-DTEND;TZID=Europe/Rome:20261119T123000
-UID:LIUC-327788-19112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: MANZINI RAFFAE
- LLA\nCodice Corso: N91546\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fondamenti di Ingegneria Elettrica ed Elettronica
-DTSTART;TZID=Europe/Rome:20261120T133000
-DTEND;TZID=Europe/Rome:20261120T173000
-UID:LIUC-327275-20112026@orari.liuc.it
-DESCRIPTION:Stato: Confermato\nTipologia: Lezione\nDocente: FERRARI VITTOR
- IO\nCodice Corso: N70087\nCurriculum: L09A (IG|2)
-LOCATION:C220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Servizi Energetici per l'industria
 DTSTART;TZID=Europe/Rome:20261123T083000
 DTEND;TZID=Europe/Rome:20261123T123000
 UID:LIUC-327182-23112026@orari.liuc.it
